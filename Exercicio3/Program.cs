@@ -45,4 +45,4 @@ Nothing ever lasts forever
 Everybody wants to rule the world",
                 compositor = "Roland Orzabal, Ian Stanley, Chris Hughes", genero = "New Wave";
 
-Console.WriteLine($"{letramusica}\nCompositor: {compositor}\nGênero musical: {genero}");
+Console.WriteLine($"{letramusica}\n\nCompositor: {compositor}\n\nGênero musical: {genero}");
