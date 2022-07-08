@@ -1,4 +1,4 @@
-# Aula1 - Blue EdTech - CodingGirls C#
+# Aula 1 - Blue EdTech - CodingGirls C#
 
 ## Exercícios
 
